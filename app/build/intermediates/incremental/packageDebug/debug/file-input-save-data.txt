@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 06 07:25:07 ICT 2018
+0.baseType=DIRECTORY
+0.base=E\:\\ITHB\\Tingkat 3\\Semester 6\\PAM\\Praktikum PAM\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

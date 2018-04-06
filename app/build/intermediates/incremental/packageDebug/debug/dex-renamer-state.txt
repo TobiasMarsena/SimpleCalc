@@ -1,0 +1,4 @@
+#Fri Apr 06 07:25:07 ICT 2018
+base.0=E\:\\ITHB\\Tingkat 3\\Semester 6\\PAM\\Praktikum PAM\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
